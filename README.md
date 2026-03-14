@@ -1,5 +1,5 @@
 <details open>
-<summary><h3>📚 Bookshelf</h3></summary>
+<summary>📚 <b>Bookshelf</b></summary>
 
 <table>
   <tr>
